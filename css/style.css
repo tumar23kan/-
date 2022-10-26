@@ -1,0 +1,15 @@
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg1: rgba(32, 112, 25, 0.78);
+  --bg2: rgb(238, 7, 7);
+  --bg3: rgba(23, 70, 140, 0.78);
+  --bg4: rgba(196, 24, 215, 0.78);
+}
+
+/*# sourceMappingURL=style.css.map */
